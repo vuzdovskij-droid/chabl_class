@@ -1,3 +1,0 @@
-C:/Users/Vladislav/OneDrive/Desktop/git/chabl_class/build/CMakeFiles/templates_hw3.dir
-C:/Users/Vladislav/OneDrive/Desktop/git/chabl_class/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Vladislav/OneDrive/Desktop/git/chabl_class/build/CMakeFiles/ZERO_CHECK.dir
